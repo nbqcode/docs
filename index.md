@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "nbqcode blog"
+  name: "My Awesome Project"
   text: "A VitePress Site"
   tagline: My great project tagline
   actions:
@@ -22,3 +22,4 @@ features:
   - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
+
