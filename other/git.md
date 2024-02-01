@@ -14,3 +14,5 @@
 ## git push
 
 ## git hooks
+
+1.  rust 脚本
