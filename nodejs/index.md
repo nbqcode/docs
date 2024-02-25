@@ -22,3 +22,7 @@ The count is: {{ count }}
   font-weight: bold;
 }
 </style>
+
+```php
+ echo "hello word";
+```

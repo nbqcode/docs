@@ -11,10 +11,10 @@ hero:
   image: /logo.png
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: 快速开始
       link: /markdown-examples
     - theme: alt
-      text: API Examples
+      text: GitHub
       link: /api-examples
 
 features:
