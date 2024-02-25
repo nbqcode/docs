@@ -26,3 +26,5 @@ The count is: {{ count }}
 ```php
  echo "hello word";
 ```
+
+console.log("hello word")
