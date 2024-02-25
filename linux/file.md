@@ -2,5 +2,4 @@
 
 # 文件切换
 
-afsfsf
-fsfdsfdsfafdsfsdf
+echo "helllfsdfsf"
