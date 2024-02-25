@@ -4,9 +4,8 @@ layout: home
 
 hero:
   name: "菜鸟入坑笔记!"
-  tagline: "我对新技术和趋势充满兴趣，持续学习和探索，致力于通过技术创新解决现实问题。我希望能够在个人博客中与大家分享我的技术见解、项目经验和技术心得，欢迎您关注我的博客并与我交流。
-您可以通过 [artistcode@hotmail.com] 与我取得联系，也欢迎关注我的 [其他社交媒体账号]。
-
+  text: "python,nodejs,java,php,golang"
+  tagline: "我希望能够在个人博客中与大家分享我的技术见解、项目经验和技术心得，欢迎您关注我的博客并与我交流。
 "
   image: /logo.png
   actions:
@@ -18,13 +17,16 @@ hero:
       link: /api-examples
 
 features:
-  - title: Feature A
+  - title: 专注内容
     icon: 🤣
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
+    details: 只需 Markdown 即可轻松创建美观的文档站点
+  - title: 享受 Vite 无可比拟的体验
     icon: 🤞
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
+    details: 服务器即时启动，闪电般的热更新，还可以使用基于 Vite 生态的插件。
+  - title: 使用 Vue 自定义
     icon: 🌹
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: 直接在 Markdown 中使用 Vue 语法和组件，或者使用 Vue 组件构建自定义主题。
+  - title: 使用 Vue 自定义
+    icon: 🤳
+    details: 直接在 Markdown 中使用 Vue 语法和组件，或者使用 Vue 组件构建自定义主题。
 ---
