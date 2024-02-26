@@ -1,5 +1,5 @@
 {
   "markdown.copyFiles.destination": {
-    "**/*.md": "assets/${documentBaseName}/${fileName}"
+    "**/*.md": "E:\\workspace\\learn\\docs\\public\\${fileName}"
   }
 }

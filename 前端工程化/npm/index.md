@@ -7,3 +7,5 @@
    ![alt text](assets/index/image.png)
    ![alt text](assets/index/image-1.png)
    ![alt text](assets/index/image-2.png)
+   ![alt text](E:/learn/docs/public/image.png)
+   ![alt text](E:/learn/docs/public/image.png)
